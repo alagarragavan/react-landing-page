@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is created to experiment on react landing page development. The page is based on the figma design in URL https://www.figma.com/design/oSk3FEZ7qJOTtRjKUJgYDW/Restaurant-Landing-Page-Project-For-Youtube?node-id=1-2&t=JxYiPC5EUZ1EKJls-0. Hosted on the URL: https://main--react-landing-page-restaurant.netlify.app/
 
 ## Available Scripts
 
